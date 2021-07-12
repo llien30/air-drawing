@@ -17,6 +17,10 @@ To try our application:
 ```
 python application.py
 ```
+or
+```
+python application2.py
+```
 
 To try handtracking by MediaPipe:
 ```
